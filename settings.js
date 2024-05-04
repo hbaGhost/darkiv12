@@ -16,19 +16,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Darki Bot MD V12' //ur bot name
-global.ownernumber = '22871255034' //ur owner number
-global.ownername = '❄️Raizen Linkid' //ur owner name
+global.botname = 'SASUKE bot v12' //ur bot name
+global.ownernumber = '237655708486' //ur owner number
+global.ownername = '☠️SASUKE' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '❄️'
+global.themeemoji = '☠️'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD12' //script link
 global.packname = "Sticker By"
-global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.author = "☠️SASUKE"
+global.creator = "237655708486@s.whatsapp.net"
+global.xprefix = '#'
+global.premium = ["237655708486"] // Premium User
 global.hituet = 0
 
 //bot sett
